@@ -1,4 +1,5 @@
 # TripleRE + Nodepiece
+![image](https://user-images.githubusercontent.com/33060795/156683499-de0e85c1-d91d-4dae-a0c6-b60274077f95.png)
 
 ## Running the experiment
 1. [**NodePiece**](https://github.com/migalkin/NodePiece) have pre-computed a vocabulary of 20k anchor nodes (~910 MB). Download it using the download.sh script:
